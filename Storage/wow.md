@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wow.md
+title: wow.md
 ---
 
 This is a dummy.

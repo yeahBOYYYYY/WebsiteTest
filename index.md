@@ -18,3 +18,5 @@ title: Home Screen
     This is a paragraph with **markdown bold** which will be ignored.
     This is the next line but there was no break tag so it is on the same line.
 </p>
+
+[LINK!](Storage/wow.md)
