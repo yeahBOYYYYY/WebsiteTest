@@ -4,8 +4,8 @@ description: >
   This repository captures the human knowledge of the topic "Complexity Theory" in a shorthand way.
 
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yeahboyyyyy.github.io/WebsiteTest" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/WebsiteTest"
+url: "https://yeahboyyyyy.github.io"
 github_username: yeahBOYYYYY # the name of your GitHub account, e.g. github_username:  jekyllrb
 github_repository: WebsiteTest # the name of your GitHub repository, e.g. github_repository:  jekyllrb.github.io
 
