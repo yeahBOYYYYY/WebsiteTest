@@ -19,4 +19,6 @@ title: Home Screen
     This is the next line but there was no break tag so it is on the same line.
 </p>
 
-[LINK!](Storage/wow.md)
+[LINK!1](Storage/wow.md)
+[LINK!2](Storage/Another/wowowow.md)
+[LINK!2](Storage/Section/yeah.md)
